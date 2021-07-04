@@ -51,9 +51,23 @@ h1{
     margin-left: 3%;
     padding: 5%;
     border-radius: 10px;
+    
 }
 .last-banner{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-image: linear-gradient (blue,cyan);  
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-image: linear-gradient (red orange);  
+}
+footer p{
+    text-align: center;
 }
